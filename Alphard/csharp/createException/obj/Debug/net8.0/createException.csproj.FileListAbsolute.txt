@@ -1,0 +1,4 @@
+D:\csharpProject\createException\obj\Debug\net8.0\createException.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpProject\createException\obj\Debug\net8.0\createException.AssemblyInfoInputs.cache
+D:\csharpProject\createException\obj\Debug\net8.0\createException.AssemblyInfo.cs
+D:\csharpProject\createException\obj\Debug\net8.0\createException.csproj.CoreCompileInputs.cache
