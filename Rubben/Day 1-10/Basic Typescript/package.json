@@ -1,6 +1,7 @@
 {
   "name": "basic-typescript",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.5"
   }
 }
