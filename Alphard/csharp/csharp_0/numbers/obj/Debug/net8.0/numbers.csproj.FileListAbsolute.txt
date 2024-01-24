@@ -1,0 +1,15 @@
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\bin\Debug\net8.0\numbers.exe
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\bin\Debug\net8.0\numbers.deps.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\bin\Debug\net8.0\numbers.runtimeconfig.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\bin\Debug\net8.0\numbers.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\bin\Debug\net8.0\numbers.pdb
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\numbers.AssemblyInfoInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\numbers.AssemblyInfo.cs
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\numbers.csproj.CoreCompileInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\numbers.sourcelink.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\numbers.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\refint\numbers.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\numbers.pdb
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\numbers.genruntimeconfig.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\numbers\obj\Debug\net8.0\ref\numbers.dll
