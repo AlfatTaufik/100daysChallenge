@@ -1,0 +1,15 @@
+C:\100daysChallenge\Alphard\csharp\csharp_0\bin\Debug\net8.0\csharp_0.exe
+C:\100daysChallenge\Alphard\csharp\csharp_0\bin\Debug\net8.0\csharp_0.deps.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\bin\Debug\net8.0\csharp_0.runtimeconfig.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\bin\Debug\net8.0\csharp_0.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\bin\Debug\net8.0\csharp_0.pdb
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.AssemblyInfoInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.AssemblyInfo.cs
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.csproj.CoreCompileInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.sourcelink.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\refint\csharp_0.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.pdb
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.genruntimeconfig.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\ref\csharp_0.dll
