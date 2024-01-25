@@ -1,14 +1,17 @@
 ﻿List<int> numbers = [12, 312, 42, 5, 643, 7];
 
-IEnumerable<int> greatGrade =
+IEnumerable<string> lessThan = 
     from number in numbers
-    where number > 8
-    select number;
+    where number < 100
+    orderby number descending
+    select $"The number that less than 80 is {number}";
 
-foreach (int i in greatGrade)
-{
-    Console.WriteLine($"{i} is greater than 8");
-}
+int count = lessThan.Count();
+    foreach (string item in lessThan)
+    {
+        Console.WriteLine(item);
+    }
+    Console.WriteLine(count);
 
 List<string> names = ["Bambang", "Susilo", "Yudhoyono", "Joko"];
 
@@ -17,7 +20,9 @@ IEnumerable<string> susilo =
     where name == "Susilo"
     select name;
 
+
 foreach (var item in susilo)
 {
     Console.WriteLine($"{item.ToLower()}");
 }
+

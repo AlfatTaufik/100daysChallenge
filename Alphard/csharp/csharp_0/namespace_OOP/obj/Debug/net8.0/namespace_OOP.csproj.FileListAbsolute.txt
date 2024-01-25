@@ -1,0 +1,15 @@
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\bin\Debug\net8.0\namespace_OOP.exe
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\bin\Debug\net8.0\namespace_OOP.deps.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\bin\Debug\net8.0\namespace_OOP.runtimeconfig.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\bin\Debug\net8.0\namespace_OOP.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\bin\Debug\net8.0\namespace_OOP.pdb
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\namespace_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\namespace_OOP.AssemblyInfoInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\namespace_OOP.AssemblyInfo.cs
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\namespace_OOP.csproj.CoreCompileInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\namespace_OOP.sourcelink.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\namespace_OOP.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\refint\namespace_OOP.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\namespace_OOP.pdb
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\namespace_OOP.genruntimeconfig.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\namespace_OOP\obj\Debug\net8.0\ref\namespace_OOP.dll
