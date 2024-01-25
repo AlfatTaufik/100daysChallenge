@@ -1,0 +1,15 @@
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\bin\Debug\net8.0\ListOfTea.exe
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\bin\Debug\net8.0\ListOfTea.deps.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\bin\Debug\net8.0\ListOfTea.runtimeconfig.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\bin\Debug\net8.0\ListOfTea.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\bin\Debug\net8.0\ListOfTea.pdb
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ListOfTea.GeneratedMSBuildEditorConfig.editorconfig
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ListOfTea.AssemblyInfoInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ListOfTea.AssemblyInfo.cs
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ListOfTea.csproj.CoreCompileInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ListOfTea.sourcelink.json
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ListOfTea.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\refint\ListOfTea.dll
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ListOfTea.pdb
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ListOfTea.genruntimeconfig.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\ListOfTea\obj\Debug\net8.0\ref\ListOfTea.dll

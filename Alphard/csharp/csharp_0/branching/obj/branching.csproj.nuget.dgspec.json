@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\branching.csproj": {}
+    "C:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\branching.csproj": {}
   },
   "projects": {
-    "c:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\branching.csproj": {
+    "C:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\branching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\branching.csproj",
+        "projectUniqueName": "C:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\branching.csproj",
         "projectName": "branching",
-        "projectPath": "c:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\branching.csproj",
+        "projectPath": "C:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\branching.csproj",
         "packagesPath": "C:\\Users\\alfat\\.nuget\\packages\\",
-        "outputPath": "c:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\obj\\",
+        "outputPath": "C:\\100daysChallenge\\Alphard\\csharp\\csharp_0\\branching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alfat\\AppData\\Roaming\\NuGet\\NuGet.Config",

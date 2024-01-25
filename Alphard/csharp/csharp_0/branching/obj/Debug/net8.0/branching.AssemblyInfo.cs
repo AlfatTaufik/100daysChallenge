@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("branching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8f316d879ff94196a0ef5259e494e9c0494cad8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b59692df9c1e43fdc4155a156b6554c5c52ae3d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("branching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("branching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

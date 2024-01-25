@@ -2,7 +2,13 @@
 
 while (count < 10)
 {
+    Console.WriteLine(count);
     count++;    
     // return count;
-    Console.WriteLine(count);
 }
+
+do
+{
+    Console.WriteLine(count);
+    count++;
+} while (count < 5);
