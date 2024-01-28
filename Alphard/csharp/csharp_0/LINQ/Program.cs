@@ -26,3 +26,14 @@ foreach (var item in susilo)
     Console.WriteLine($"{item.ToLower()}");
 }
 
+List<string> test = ["Gahag", "Pahag"];
+
+IEnumerable<string> pahag = 
+    from one in test
+    where one == "Pahag"
+    select one;
+
+foreach (var item in pahag)
+{
+    Console.WriteLine(item);
+}

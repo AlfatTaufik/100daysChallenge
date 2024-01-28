@@ -1,0 +1,5 @@
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.AssemblyInfoInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.AssemblyInfo.cs
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.csproj.CoreCompileInputs.cache
+C:\100daysChallenge\Alphard\csharp\csharp_0\obj\Debug\net8.0\csharp_0.sourcelink.json
