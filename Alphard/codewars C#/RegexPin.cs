@@ -5,9 +5,9 @@ public class Kata
 {
   public static bool ValidatePin(string pin)
   {
-    var pattern = @"^\d{4}$|^\d{6}$";
+    var pattern = @"^(?:\d{4}|\d{6})$";
     bool count = Regex.IsMatch(pin, pattern);
-    if(count)
+    if(count && !pin.Contains(Environment.NewLine))
       {
       return true;
       }
