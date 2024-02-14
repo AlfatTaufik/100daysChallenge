@@ -1,0 +1,15 @@
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\bin\Debug\net8.0\FaroShuffleLinq.exe
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\bin\Debug\net8.0\FaroShuffleLinq.deps.json
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\bin\Debug\net8.0\FaroShuffleLinq.runtimeconfig.json
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\bin\Debug\net8.0\FaroShuffleLinq.dll
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\bin\Debug\net8.0\FaroShuffleLinq.pdb
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\FaroShuffleLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\FaroShuffleLinq.AssemblyInfoInputs.cache
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\FaroShuffleLinq.AssemblyInfo.cs
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\FaroShuffleLinq.csproj.CoreCompileInputs.cache
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\FaroShuffleLinq.sourcelink.json
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\FaroShuffleLinq.dll
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\refint\FaroShuffleLinq.dll
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\FaroShuffleLinq.pdb
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\FaroShuffleLinq.genruntimeconfig.cache
+C:\100daysChallenge\Alphard\csharp\FaroShuffleLinq\obj\Debug\net8.0\ref\FaroShuffleLinq.dll
