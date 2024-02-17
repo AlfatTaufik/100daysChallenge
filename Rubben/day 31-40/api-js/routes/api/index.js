@@ -15,8 +15,7 @@ module.exports = async function (fastify, opts) {
     reply.send({ message: `Hello ${name}` });
   });
 
-  fastify.post("/sup", { schema }, async (request, reply) => {
-    if (request.body.name === "Rubben")
-      return { hello: 'world' }
+  fastify.post("/sup/", { schema }, async (request, reply) => {
+      return { name: 'world' }
   });
 };
