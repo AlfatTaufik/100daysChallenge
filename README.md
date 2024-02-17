@@ -1,3 +1,11 @@
-Mengisi waktu luang dengan upload kodingan
-33 / 100
-Reminder
+# 100 Days Challenge
+----------
+## Progress
+
+| Contributor             | Progress                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Alfat | ![](https://geps.dev/progress/34) |
+| Ikhsan | ![](https://geps.dev/progress/33)  |
+| Rubben | ![](https://geps.dev/progress/33)  |
+
+
