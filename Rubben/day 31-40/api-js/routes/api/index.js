@@ -16,6 +16,10 @@ module.exports = async function (fastify, opts) {
   });
 
   fastify.post("/sup/", { schema }, async (request, reply) => {
-      return { name: 'world' }
+    return { name: "world" };
+  });
+
+  fastify.get("/user/:name", async (request, reply) => {
+    
   });
 };
