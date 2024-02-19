@@ -1,4 +1,6 @@
-"use strict";
+("use strict");
+const {PrismaClient} =  require("@prisma/client")
+const prisma = new PrismaClient();
 let testschema = {
   type: "object",
   properties: {
@@ -9,7 +11,7 @@ let testschema = {
 const schema = {
   body: testschema,
 };
-module.exports = async function (fastify, opts) {
+async function routes(fastify, opts) {
   fastify.get("/hello/:name", async function (request, reply) {
     const { name } = request.params;
     reply.send({ message: `Hello ${name}` });
@@ -20,6 +22,13 @@ module.exports = async function (fastify, opts) {
   });
 
   fastify.get("/user/:name", async (request, reply) => {
-    
+    const { nama } = request.params;
+    const user = await prisma.user.findFirst({
+      where: {
+        name: nama,
+      },
+    });
+    reply.send(user);
   });
-};
+}
+module.exports = routes
