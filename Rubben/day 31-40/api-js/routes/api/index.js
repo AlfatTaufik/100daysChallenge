@@ -1,5 +1,5 @@
 ("use strict");
-const {PrismaClient} =  require("@prisma/client")
+const { PrismaClient } = require("@prisma/client");
 const prisma = new PrismaClient();
 let testschema = {
   type: "object",
@@ -30,5 +30,16 @@ async function routes(fastify, opts) {
     });
     reply.send(user);
   });
+
+  fastify.post("/adduser", async (request, reply) => {
+    const { email, name } = request.body;
+    const user = await prisma.user.create({
+      data: {
+        email,
+        name
+      },
+    });
+    reply.send(user)
+  });
 }
-module.exports = routes
+module.exports = routes;
