@@ -41,5 +41,14 @@ async function routes(fastify, opts) {
     });
     reply.send(user)
   });
+  fastify.delete("/user",async (request, reply) => {
+    const { email, name } = request.body;
+    const user = await prisma.user.delete({
+      where: {
+        email: email,
+      },
+    });
+    reply.send(user)
+  });
 }
 module.exports = routes;
