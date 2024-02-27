@@ -4,7 +4,7 @@
 
 | Contributor             | Progress                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Alfat | ![](https://geps.dev/progress/41) |
+| Alfat | ![](https://geps.dev/progress/42) |
 | Ikhsan | ![](https://geps.dev/progress/40)  |
 | Rubben | ![](https://geps.dev/progress/42)  |
 
